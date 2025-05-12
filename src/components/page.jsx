@@ -39,7 +39,7 @@ const Page = () => {
         <div className="w-full h-fit  min-h-[100vh] grid place-items-center">
             <div className="md:flex-row flex-col bg-pink-100 border border-solid border-gray-400 shadow-lg w-[80%] md:w-[60%] mx-auto h-fit flex items-center justify-between min-h-[60vh] rounded-lg">
                 <div className="w-full md:w-[50%] h-[40vh] md:h-[60vh] ">
-                    <img className="h-full w-full rounded-t-lg md:rounded-t-none md:rounded-l-lg" src={wink} alt="" />
+                    <img className="h-full w-full rounded-t-lg md:rounded-t-none md:rounded-l-lg bg-ye;" src={wink} alt="" />
                 </div>
                 <div className=" md:h-[50vh] h-[30vh]  md:w-[50%] grid">
                   <h1 className="mt-5 md:mt-0 text-xl md:text-2xl text-center font-semibold">Welcome to Wink and Flirt</h1>
