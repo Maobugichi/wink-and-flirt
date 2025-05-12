@@ -7,6 +7,6 @@ export default defineConfig({
   base:'/wink-and-flirt/',
   plugins: [react() , tailwindcss(), ],
   build: {
-    assetsInlineLimit: 0, /
+    assetsInlineLimit: 0, 
   },
 })
